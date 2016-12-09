@@ -43,7 +43,7 @@ $ ruby test/regression_test.rb
 
 ```
 $ git bisect start
-$ git bisect <good-commit> <bad-commit>
+$ git bisect <bad-commit> <good-commit>
 $ git bisect run <testfile>
 ```
 
