@@ -10,7 +10,7 @@ that I can demonstrate the `git bisect run` command.
 
 ### Installation
 
-Install Ruby. Then:
+Install [Ruby](https://www.ruby-lang.org/en). Then:
 
 ```
 $ git clone https://github.com/jwworth/git_bisect_demo_ruby.git
