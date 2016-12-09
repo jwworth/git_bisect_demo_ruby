@@ -5,7 +5,8 @@ Bisect](https://git-scm.com/docs/git-bisect) would be a useful problem solving
 tool.
 
 This is a companion repository to one I built in Elixir, available
-[here](https://github.com/jwworth/git_bisect_demo).
+[here](https://github.com/jwworth/git_bisect_demo). I created this one so
+that I can demonstrate the `git bisect run` command.
 
 ### Installation
 
